@@ -1,2 +1,3 @@
 test po edycji
 raz dwa trzy
+trzecia linijka z maszyny losującej kurwa raz dwa trzy 
