@@ -1,0 +1,39 @@
+ Student (18-25)
+    _
+   / \
+   \_/
+   /|\
+    |
+    |
+  .-----------------------------------------------------------------------.
+  | Aplikacja Planowania Nauki                                            |
+  |                                                                       |
+  |  (Lista zadań)                (Tygodniowy kalendarz)                 |
+  |     o                              o                                 |
+  |     |                              |                                 |
+  |     |                              |                                 |
+  |  (Priorytetyzacja)  (Przypomnienia) (Pomodoro) (AI sugestie)         |
+  |     o                    o           o           o                   |
+  |     |                    |           |           |                   |
+  |  (Tagi, podzadania,     (Push, email,  (Timer,    (Sug. terminów,    |
+  |   powtarzające się,      snooze)        krótkie sesje)  optymalizacja)|
+  |   szac. czasu, deadline)                                         |
+  |                                                                       |
+  |                          (Statystyki i raporty)                      |
+  |                            o    (Wykresy, Streaks, % realizacji)      |
+  |                            |                                           |
+  |  (Import/Export, Sync) --- (Baza danych lokalna / chmura) -- (Backup) |
+  |       o                \                o                /           |
+  |       |                 \               |               /            |
+  |  (Ustawienia)           (Logika synchronizacji, uprawnienia, prywatność)
+  |   o  (Profil, theme, powiadomienia, konta)                          |
+  '-----------------------------------------------------------------------'
+    ^   ^    ^    ^    ^    ^    ^
+    |   |    |    |    |    |    |
+    |   |    |    |    |    |    +-- Ustawienia kontrolują backup i sync
+    |   |    |    |    |    +------- Statystyki zbierają dane z zadań/kalendarza
+    |   |    |    |    +------------ AI sugeruje terminy i priorytety
+    |   |    |    +----------------- Pomodoro powiązany z zadaniem/listą
+    |   |    +---------------------- Przypomnienia powiązane z zadaniami/kalendarzem
+    |   +-------------------------- Priorytetyzacja wpływa na listę zadań i kalendarz
+    +----------------------------- Student inicjuje wszystkie przypadki użycia
