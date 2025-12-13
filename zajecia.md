@@ -1,3 +1,11 @@
+```mermaid
+flowchart TD
+ A[To jest żyleta] --> B[tu sie stoi]
+ B --> C[i się kibicuje]
+ C --> D[a nie siedzi]
+```
+
+
 | nazwa kolumny | nazwa kolumny 2 | kolumna 3 |
 | --- | --- | --- |
 |tak|samo|jak ty|
