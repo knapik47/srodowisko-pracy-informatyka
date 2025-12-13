@@ -1,6 +1,6 @@
 # Inspiracje
 
-**i. Inspiracje (słowa, skojarzenia, pomysły)**
+## **I. Inspiracje (słowa, skojarzenia, pomysły)**
 - prostota, minimalizm, szybkie zadania
 - organizacja czasu, tablica kanban, lista rzeczy do zrobienia
 - tagi, filtrowanie, kolorystyka (pastelowe, kontrastowe)
@@ -9,7 +9,7 @@
 - automatyzacja rutyn, przypomnienia, szablony
 - integracje (kalendarz, mail, API), eksport/backup
 
-*ii. Krótka lista elementów projektu*
+## *II. Krótka lista elementów projektu*
 - interfejs użytkownika: dashboard, widok listy, widok szczegółów
 - system kategorii i tagów
 - mechanizm dodawania/edycji/usuwania elementów
@@ -18,10 +18,10 @@
 - warstwa danych: lokalne przechowywanie + opcjonalna synchronizacja
 - testy podstawowe i dokumentacja użytkownika
 
-**iii. Wstępne dane wejściowe (np. lista kategorii, lista funkcji)**
-- Kategorie (przykładowe): Praca, Nauka, Dom, Zakupy, Hobby, Pilne
-- Priorytety: Niski, Normalny, Wysoki
-- Funkcje (lista): 
+## **III. Wstępne dane wejściowe (np. lista kategorii, lista funkcji)**
+1. Kategorie (przykładowe): Praca, Nauka, Dom, Zakupy, Hobby, Pilne
+2. Priorytety: Niski, Normalny, Wysoki
+3. Funkcje (lista): 
     - Dodaj zadanie (tytuł, opis, kategoria, priorytet, termin, tagi)
     - Edytuj zadanie
     - Usuń/archiwizuj zadanie
@@ -32,7 +32,7 @@
     - Tryb offline + synchronizacja przy połączeniu
     - Szablony zadań i szybkie akcje
 
-iv. Lista źródeł pomysłu (np. znajomy, własna potrzeba, przypadek)
+## IV. Lista źródeł pomysłu (np. znajomy, własna potrzeba, przypadek)
 - Własna potrzeba: potrzeba prostego narzędzia do zarządzania zadaniami
 - Znajomy: sugestie od kolegi organizującego zespół projektowy
 - Przypadek: obserwacja braku intuicyjnych rozwiązań na rynku
