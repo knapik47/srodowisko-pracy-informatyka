@@ -1,3 +1,7 @@
+| nazwa kolumny | nazwa kolumny 2 | 
+| --- | --- | --- |
+
+
 '''
 wklejamy kod zrodlowy
 '''
@@ -6,8 +10,7 @@ wklejamy kod zrodlowy
 normalny tekst
 
 [Link do strony:](https://burgerking.pl/)
-![Tekst Alternatywny]
-(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/500px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg)
+![Tekst Alternatywny](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Coat_of_arms_of_Ioannes_Paulus_II.svg/250px-Coat_of_arms_of_Ioannes_Paulus_II.svg.png)
 
 ## Sekcja 1 
 dodajmy jakies formatowanie np. **pogrubienie** albo *kursywe* albo ~przekreslenie~
@@ -19,5 +22,6 @@ __pogrubienie__ i _kursywa_ wystepuje tez w alternatywnej wersji
 
 1. pierwszy element
 2. drugi element
-3. trzeci element   
+3. trzeci element
+
 
