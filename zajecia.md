@@ -6,7 +6,7 @@ wklejamy kod zrodlowy
 normalny tekst
 
 [Link do strony:](https://burgerking.pl/)
-![tekst alternatywny]
+![Tekst Alternatywny]
 (https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/500px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg)
 
 ## Sekcja 1 
