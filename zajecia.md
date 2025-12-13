@@ -1,5 +1,6 @@
-|nazwa kolumny|nazwa kolumny 2| 
+| nazwa kolumny | nazwa kolumny 2 | kolumna 3 |
 | --- | --- | --- |
+|tak|samo|jak ty|
 
 
 '''
