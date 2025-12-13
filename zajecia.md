@@ -7,8 +7,7 @@ normalny tekst
 
 [Link do strony:](https://burgerking.pl/)
 ![tekst alternatywny]!
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToETY4W68B57dlYjT-oW-ev1yKah40Ox77VM2fV0zttWx83xEQYOotb_e8rv0VYaIALjtUwCTYRXVq8QIKqqxmZW-yMcUtJZeeeGxM41XiVg&s=10
-
+https://open.spotify.com/artist/7ijCBGjbf8jByDrau9SAmt
 
 ## Sekcja 1 
 dodajmy jakies formatowanie np. **pogrubienie** albo *kursywe* albo ~przekreslenie~
