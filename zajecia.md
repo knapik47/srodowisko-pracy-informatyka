@@ -6,8 +6,7 @@ wklejamy kod zrodlowy
 normalny tekst
 
 [Link do strony:](https://burgerking.pl/)
-![tekst alternatywny]!
-https://open.spotify.com/artist/7ijCBGjbf8jByDrau9SAmt
+![tekst alternatywny]https://www.merito.pl/warszawa/
 
 ## Sekcja 1 
 dodajmy jakies formatowanie np. **pogrubienie** albo *kursywe* albo ~przekreslenie~
